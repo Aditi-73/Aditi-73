@@ -1,7 +1,7 @@
-<div align="center">
+[README (1).md](https://github.com/user-attachments/files/25878037/README.1.md)<div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aditi+Shukla+%F0%9F%91%8B;AI+%2F+ML+Engineer;Data+Scientist+in+the+Making;Building+Intelligent+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFF8F0&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Aditi+Shukla+%F0%9F%91%8B;AI+%2F+ML+Engineer;Data+Scientist+in+the+Making;Building+Intelligent+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditi%20Shukla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20%7C%20Software%20Engineering&descAlignY=55&descSize=16" width="100%"/>
 
@@ -77,10 +77,12 @@ me.say_hi()
 ---
 
 ## 🌱 Currently Working On
-- 🌾 Expanding AgriSure with more ML features
-- 🔗 Deploying ConsentChain on testnet
-- 📚 Learning about LLMs and RAG pipelines
-- 💡 Contributing to open source AI projects
+
+- 🌾 Expanding **AgriSure** with more ML features and regional language support
+- 🔗 Deploying **ConsentChain** with full blockchain integration
+- 📚 Deepening knowledge in **LLMs, RAG pipelines, and Generative AI**
+- 💡 Exploring open source contributions in AI/ML
+- 🎯 Preparing for roles in **Data Science, AI Engineering & Software Development**
 
 ---
 
