@@ -76,20 +76,11 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditi-73&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-73&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aditi-73&theme=tokyonight&hide_border=true)
-
-</div>
+## 🌱 Currently Working On
+- 🌾 Expanding AgriSure with more ML features
+- 🔗 Deploying ConsentChain on testnet
+- 📚 Learning about LLMs and RAG pipelines
+- 💡 Contributing to open source AI projects
 
 ---
 
