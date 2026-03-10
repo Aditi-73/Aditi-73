@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/25878037/README.1.md)<div align="center">
+(https://github.com/user-attachments/files/25878037/README.1.md)<div align="center">
 
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFF8F0&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Aditi+Shukla+%F0%9F%91%8B;AI+%2F+ML+Engineer;Data+Scientist+in+the+Making;Building+Intelligent+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
